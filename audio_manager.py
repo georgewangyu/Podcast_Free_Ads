@@ -1,5 +1,4 @@
-
-import PyDejavu
+import dejavu
 
 
 
