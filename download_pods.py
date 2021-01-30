@@ -1,10 +1,7 @@
 import feedparser
 d = feedparser.parse('https://feeds.npr.org/510289/podcast.xml')
-# d['npr']['Planet Money']
 
-d['entries'][0]
 max_download = 4
-
 mp3s_list = []
 
 for i,podmeta in enumerate(d['entries']):
