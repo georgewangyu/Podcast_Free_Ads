@@ -12,7 +12,7 @@ for i,podmeta in enumerate(d['entries']):
         break
     for linkmeta in podmeta['links']:
         if('.mp3' in linkmeta['href']):
-            mpi3s_list.append(linkmeta['href'])
+            mp3s_list.append(linkmeta['href'])
 
 
 
