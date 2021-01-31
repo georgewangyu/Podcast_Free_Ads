@@ -1,2 +1,3 @@
 # Podcast Free Ads
-App that uses machines learning to get rid of ads
+App that does not use machine learning to get rid of ads
+
